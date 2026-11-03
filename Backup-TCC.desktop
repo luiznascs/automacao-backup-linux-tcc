@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Sistema de Backup
+Comment=Painel de gerenciamento de backups
+Exec=/usr/bin/python3 /home/luiz/tcc/scripts/interface.py
+Icon=folder-documents
+Terminal=false
+Categories=Utility;
